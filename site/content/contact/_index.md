@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "RTP KILAT333"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
